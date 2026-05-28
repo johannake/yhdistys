@@ -7,7 +7,7 @@ alennusjäsenyys työttömille, opiskelijoille tai muille vähävaraisille sekä
 kannatusjäsenyys. Kannatusjäsenet voidaan määritellä henkilöjäseniksi, yritysjäseniksi
 tai muiksi yhteisöjäseniksi.
 
-- Toiminnot
+Toiminnot
 
 - Lisää uusia jäseniä ja määrittele heidän jäsenyystyyppinsä.
 - Muokkaa olemassa olevien jäsenten tietoja.
