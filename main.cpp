@@ -113,14 +113,14 @@ char account::rettype() const
 
 // funktiot
 void write_account();
-void display_sp(int);	//j�sentietojen n�ytt�
-void modify_account(int);	//j�sentietojen p�ivitys
-void delete_account(int);	//j�senen poisto
-void display_all();		//jasenrekisterin n�ytt�
-void deposit_withdraw(int, int); // myyntisaldon p�ivitys
+void display_sp(int);	//jasentietojen naytto
+void modify_account(int);	//jasentietojen paivitys
+void delete_account(int);	//jasenen poisto
+void display_all();		//jasenrekisterin naytto
+void deposit_withdraw(int, int); // myyntisaldon paivitys
 void service_info (); // tietoa jasenyyksista ja jarjestelmasta
-void intro();	//intro-n�ytt�
-// P��funktio
+void intro();	//intro-naytto
+// Paafunktio
 
 int main()
 {
